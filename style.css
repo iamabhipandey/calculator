@@ -11,7 +11,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #070707, #285369);
+    /* background: linear-gradient(45deg, #070707, #285369); */
+    background:linear-gradient(45deg, rgb(199, 61, 61) ,#3a4452);
 }
 
 .calculator{
